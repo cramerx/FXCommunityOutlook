@@ -4,7 +4,7 @@ Intended for use in market sentiment analysis and submitting to bias placed by a
 
 Run:
 
-	python fx_commoutlook_scraper.py [min_lot_volume]
+	python fx_commoutlook_scraper.py [min_interest]
 
 Python version:
 
